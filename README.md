@@ -7,4 +7,4 @@ Projects :
 
    2. Loan Predictions
            
-   3. Iris
+   3. Iris species
