@@ -8,5 +8,4 @@ Projects :
    2. Loan Predictions
            
    3. Iris species
-   
    4.predicting boston house price
